@@ -54,38 +54,6 @@ and continuously improving my problem-solving and software engineering skills.
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 JobHunt AI
-AI-powered job hunting platform focused on improving the job application workflow.
-
-**Tech:** Python · Streamlit · AI · REST APIs
-
----
-
-### 🔹 TechSphere
-A community platform designed for college tech students to share posts,
-join groups, and communicate with other developers.
-
-**Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB
-
----
-
-### 🔹 Employee Management System
-A full-stack employee management application with role-based access control
-and employee record management.
-
-**Tech:** Java · React · Node.js · MongoDB
-
----
-
-### 🔹 Hive Mind
-An AI-based age estimation and age-restriction system designed for social
-media platforms.
-
-**Tech:** React · Node.js · Express.js · Python · Flask · TensorFlow · OpenCV
-
----
 
 ## 📊 GitHub Stats
 
